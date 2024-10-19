@@ -3,15 +3,15 @@ This repository contains a Flask application for time series prediction using va
 
 * Table of Contents :
 
-Project Overview
-Requirements
-Setup Instructions
-Usage
-Model Training
-API Endpoints
-Logging
-Testing
-Testing Sample
+    - Project Overview
+    - Requirements
+    - Setup Instructions
+    - Usage
+    - Model Training
+    - API Endpoints
+    - Logging
+    - Testing
+    - Testing Sample
 
 
 * Project Overview:-

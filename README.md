@@ -29,16 +29,15 @@ Visual Studio Code (VS Code): The latest version is recommended. Download it fro
 * Required Libraries:-
 To run the application, the following Python libraries are required:
 
-
-Flask: For creating the web application.
-pandas: For data manipulation and analysis.
-numpy: For numerical computations.
-scikit-learn: For machine learning algorithms and utilities.
-xgboost: For XGBoost regression model.
-joblib: For saving and loading models.
-math: For mathematical operations.
-datetime: For handling date and time data.
-You can find the specific versions of these libraries in the requirements.txt file included in the repository.
+* Flask: For creating the web application.
+* pandas: For data manipulation and analysis.
+* numpy: For numerical computations.
+* scikit-learn: For machine learning algorithms and utilities.
+* xgboost: For XGBoost regression model.
+* joblib: For saving and loading models.
+* math: For mathematical operations.
+* datetime: For handling date and time data.
+* You can find the specific versions of these libraries in the requirements.txt file included in the repository.
 
 * Setup Instructions:
 Follow these steps to set up the environment and run the application:
